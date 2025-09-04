@@ -1,0 +1,1 @@
+uORF1.pl helps to find uORF on mRNAs based on Ribo-seq. The R is required. In additon, the cDNA sequences are required.
